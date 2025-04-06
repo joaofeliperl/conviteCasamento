@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/conviteCasamento/static/css/main.aeff51ec.chunk.css",
-    "main.js": "/conviteCasamento/static/js/main.2475b3f2.chunk.js",
-    "main.js.map": "/conviteCasamento/static/js/main.2475b3f2.chunk.js.map",
+    "main.css": "/conviteCasamento/static/css/main.72c3759f.chunk.css",
+    "main.js": "/conviteCasamento/static/js/main.80dae62b.chunk.js",
+    "main.js.map": "/conviteCasamento/static/js/main.80dae62b.chunk.js.map",
     "runtime~main.js": "/conviteCasamento/static/js/runtime~main.1f34c4b4.js",
     "runtime~main.js.map": "/conviteCasamento/static/js/runtime~main.1f34c4b4.js.map",
     "static/js/2.c7821bdd.chunk.js": "/conviteCasamento/static/js/2.c7821bdd.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.8ba39429.chunk.js": "/conviteCasamento/static/js/3.8ba39429.chunk.js",
     "static/js/3.8ba39429.chunk.js.map": "/conviteCasamento/static/js/3.8ba39429.chunk.js.map",
     "index.html": "/conviteCasamento/index.html",
-    "precache-manifest.30c6e9382677a9933a857d5eb2108d5d.js": "/conviteCasamento/precache-manifest.30c6e9382677a9933a857d5eb2108d5d.js",
+    "precache-manifest.fd2084b68cb88533d3a354014698ac03.js": "/conviteCasamento/precache-manifest.fd2084b68cb88533d3a354014698ac03.js",
     "service-worker.js": "/conviteCasamento/service-worker.js",
-    "static/css/main.aeff51ec.chunk.css.map": "/conviteCasamento/static/css/main.aeff51ec.chunk.css.map",
+    "static/css/main.72c3759f.chunk.css.map": "/conviteCasamento/static/css/main.72c3759f.chunk.css.map",
     "static/media/Events.css": "/conviteCasamento/static/media/FontsFree-Net-lawrence-regular.8fcaf569.woff2",
     "static/media/Header.css": "/conviteCasamento/static/media/background.6fc22055.jpg"
   }
