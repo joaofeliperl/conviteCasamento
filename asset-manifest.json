@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conviteCasamento/static/css/main.0eecac52.css",
+    "main.js": "/conviteCasamento/static/js/main.6e043bfe.js",
+    "static/js/453.2f3e5db2.chunk.js": "/conviteCasamento/static/js/453.2f3e5db2.chunk.js",
+    "static/media/background.jpg": "/conviteCasamento/static/media/background.17c9b2e00e1b1c8b6c73.jpg",
+    "index.html": "/conviteCasamento/index.html",
+    "main.0eecac52.css.map": "/conviteCasamento/static/css/main.0eecac52.css.map",
+    "main.6e043bfe.js.map": "/conviteCasamento/static/js/main.6e043bfe.js.map",
+    "453.2f3e5db2.chunk.js.map": "/conviteCasamento/static/js/453.2f3e5db2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eecac52.css",
+    "static/js/main.6e043bfe.js"
+  ]
+}
