@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/conviteCasamento/static/css/main.2f846007.chunk.css",
-    "main.js": "/conviteCasamento/static/js/main.7195ce0d.chunk.js",
-    "main.js.map": "/conviteCasamento/static/js/main.7195ce0d.chunk.js.map",
+    "main.css": "/conviteCasamento/static/css/main.9cc841a3.chunk.css",
+    "main.js": "/conviteCasamento/static/js/main.3038649e.chunk.js",
+    "main.js.map": "/conviteCasamento/static/js/main.3038649e.chunk.js.map",
     "runtime-main.js": "/conviteCasamento/static/js/runtime-main.6723b38a.js",
     "runtime-main.js.map": "/conviteCasamento/static/js/runtime-main.6723b38a.js.map",
     "static/js/2.7fd5fd58.chunk.js": "/conviteCasamento/static/js/2.7fd5fd58.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.19d36045.chunk.js": "/conviteCasamento/static/js/3.19d36045.chunk.js",
     "static/js/3.19d36045.chunk.js.map": "/conviteCasamento/static/js/3.19d36045.chunk.js.map",
     "index.html": "/conviteCasamento/index.html",
-    "precache-manifest.cfeecec06bbbb89b0eb4a4ad1875330a.js": "/conviteCasamento/precache-manifest.cfeecec06bbbb89b0eb4a4ad1875330a.js",
+    "precache-manifest.637f85ed1e52204510aee9b0674bde89.js": "/conviteCasamento/precache-manifest.637f85ed1e52204510aee9b0674bde89.js",
     "service-worker.js": "/conviteCasamento/service-worker.js",
-    "static/css/main.2f846007.chunk.css.map": "/conviteCasamento/static/css/main.2f846007.chunk.css.map",
+    "static/css/main.9cc841a3.chunk.css.map": "/conviteCasamento/static/css/main.9cc841a3.chunk.css.map",
     "static/js/2.7fd5fd58.chunk.js.LICENSE.txt": "/conviteCasamento/static/js/2.7fd5fd58.chunk.js.LICENSE.txt",
     "static/media/Benson Boone - Beautiful Things  (Instrumental, Violin Version).mp3": "/conviteCasamento/static/media/Benson Boone - Beautiful Things  (Instrumental, Violin Version).b264568b.mp3",
     "static/media/Footer.css": "/conviteCasamento/static/media/FontsFree-Net-lawrence-regular.8fcaf569.woff2",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.6723b38a.js",
     "static/js/2.7fd5fd58.chunk.js",
-    "static/css/main.2f846007.chunk.css",
-    "static/js/main.7195ce0d.chunk.js"
+    "static/css/main.9cc841a3.chunk.css",
+    "static/js/main.3038649e.chunk.js"
   ]
 }

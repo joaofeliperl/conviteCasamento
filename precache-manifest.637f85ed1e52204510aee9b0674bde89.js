@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7adff8af12d403bddd6acf30609861c6",
+    "revision": "a67cc030e8abedb7e501a8034de8a2c0",
     "url": "/conviteCasamento/index.html"
   },
   {
-    "revision": "c501f300b2c5c94fdc21",
-    "url": "/conviteCasamento/static/css/main.2f846007.chunk.css"
+    "revision": "eca86b6eb12b323d8f63",
+    "url": "/conviteCasamento/static/css/main.9cc841a3.chunk.css"
   },
   {
     "revision": "a2fe9fdf13002f4d1749",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/conviteCasamento/static/js/3.19d36045.chunk.js"
   },
   {
-    "revision": "c501f300b2c5c94fdc21",
-    "url": "/conviteCasamento/static/js/main.7195ce0d.chunk.js"
+    "revision": "eca86b6eb12b323d8f63",
+    "url": "/conviteCasamento/static/js/main.3038649e.chunk.js"
   },
   {
     "revision": "37917f499cb565cd9253",
