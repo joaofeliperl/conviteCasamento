@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/conviteCasamento/static/css/main.b9df8016.chunk.css",
-    "main.js": "/conviteCasamento/static/js/main.93a42e9a.chunk.js",
-    "main.js.map": "/conviteCasamento/static/js/main.93a42e9a.chunk.js.map",
+    "main.css": "/conviteCasamento/static/css/main.ff02a302.chunk.css",
+    "main.js": "/conviteCasamento/static/js/main.8ca020d3.chunk.js",
+    "main.js.map": "/conviteCasamento/static/js/main.8ca020d3.chunk.js.map",
     "runtime-main.js": "/conviteCasamento/static/js/runtime-main.8a3e225c.js",
     "runtime-main.js.map": "/conviteCasamento/static/js/runtime-main.8a3e225c.js.map",
     "static/js/2.a948976f.chunk.js": "/conviteCasamento/static/js/2.a948976f.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.984e0647.chunk.js": "/conviteCasamento/static/js/3.984e0647.chunk.js",
     "static/js/3.984e0647.chunk.js.map": "/conviteCasamento/static/js/3.984e0647.chunk.js.map",
     "index.html": "/conviteCasamento/index.html",
-    "precache-manifest.616ac4c6a6c6a769b915698031275060.js": "/conviteCasamento/precache-manifest.616ac4c6a6c6a769b915698031275060.js",
+    "precache-manifest.0ec01172f627323a120490fd15a71f91.js": "/conviteCasamento/precache-manifest.0ec01172f627323a120490fd15a71f91.js",
     "service-worker.js": "/conviteCasamento/service-worker.js",
-    "static/css/main.b9df8016.chunk.css.map": "/conviteCasamento/static/css/main.b9df8016.chunk.css.map",
+    "static/css/main.ff02a302.chunk.css.map": "/conviteCasamento/static/css/main.ff02a302.chunk.css.map",
     "static/js/2.a948976f.chunk.js.LICENSE.txt": "/conviteCasamento/static/js/2.a948976f.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/conviteCasamento/static/media/FontsFree-Net-lawrence-regular.8fcaf569.woff2",
     "static/media/Header.css": "/conviteCasamento/static/media/background.6fc22055.jpg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.8a3e225c.js",
     "static/js/2.a948976f.chunk.js",
-    "static/css/main.b9df8016.chunk.css",
-    "static/js/main.93a42e9a.chunk.js"
+    "static/css/main.ff02a302.chunk.css",
+    "static/js/main.8ca020d3.chunk.js"
   ]
 }
